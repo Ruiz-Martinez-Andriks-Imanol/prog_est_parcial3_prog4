@@ -7,7 +7,7 @@
 <p>Este es un programa de funciones, ciclos y condicionales en Lenguaje C de la materia de Programación Estructurada<br>
 Muestra el uso de:
   <ul>
-    <li>Variables entero}asn flotantes y en cadena</li>
+    <li>Variables enteras, flotantes y en cadena</li>
     <li>printf para mostrar mensajes y variables</li>
     <li>fgets</li>
     <li>scanf</li>
